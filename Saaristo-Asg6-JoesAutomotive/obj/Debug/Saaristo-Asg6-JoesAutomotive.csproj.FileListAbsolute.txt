@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\bin\Debug\Saaristo-Asg6-JoesAutomotive.exe.config
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\bin\Debug\Saaristo-Asg6-JoesAutomotive.exe
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\bin\Debug\Saaristo-Asg6-JoesAutomotive.pdb
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo-Asg6-JoesAutomotive.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo-Asg6-JoesAutomotive.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo_Asg6_JoesAutomotive.Form1.resources
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo_Asg6_JoesAutomotive.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo-Asg6-JoesAutomotive.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo-Asg6-JoesAutomotive.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo-Asg6-JoesAutomotive.exe
+C:\Users\brian\source\repos\Saaristo-Asg6-JoesAutomotive\obj\Debug\Saaristo-Asg6-JoesAutomotive.pdb
